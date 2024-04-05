@@ -2,7 +2,6 @@
 
 **Project 2 - Search Overview**
 
-**Project 2 - Search Overview**
 
 In this project, I look on C++ data structures, specifically sets and maps, to construct a document search engine capable of handling complex queries. By the project's completion, students will have implemented a robust search engine that supports various search queries and gained valuable experience with essential C++ data structures. Key features include preprocessing body text, storing data in efficient data structures, and executing search queries effectively.
 
