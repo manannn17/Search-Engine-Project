@@ -1,3 +1,5 @@
+This project is subjected to copurights and it belogngs to the University of Illinois at Chicago
+
 # Search-Engine-Project
 
 **Project 2 - Search Overview**
